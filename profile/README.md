@@ -10,7 +10,7 @@ Our mission is to make imaging data more **accessible**, **interoperable**, and 
   - [Release-of-Information Request Generator](https://www.medicai.io/roi-request-generator) – Quickly generate HIPAA-compliant ROI requests with a guided online form
   - [Free Medical Imaging File Uploader](https://www.medicai.io/send-medical-imaging-for-free) – Send and share medical images securely online without cost or setup 
 
----
+--- 
 
 📬 Keep in touch via:
 - 🌐 [Website](https://medicai.io)  
