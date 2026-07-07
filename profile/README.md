@@ -5,7 +5,7 @@ Our mission is to make imaging data more **accessible**, **interoperable**, and 
 
 
 ## 📝 **Our OSS/Free Tools**  
-  - [pdf-to-dicom](https://github.com/medicai-io/pdf-to-dicom) – Convert PDFs into Encapsulated DICOM objects to use with your PACS  
+  - [dicom-pdf](https://github.com/Medicai-io/dicom-pdf) – Convert PDFs into Encapsulated DICOM objects to use with your PACS, or extract PDF from DICOM
   - [Free Online DICOM Viewer](https://www.medicai.io/free-tools/online-dicom-viewer) – View and inspect DICOM studies directly in your browser, no install required
   - [Release-of-Information Request Generator](https://www.medicai.io/roi-request-generator) – Quickly generate HIPAA-compliant ROI requests with a guided online form
   - [Free Medical Imaging File Uploader](https://www.medicai.io/send-medical-imaging-for-free) – Send and share medical images securely online without cost or setup 
